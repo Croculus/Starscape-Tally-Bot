@@ -1,1 +1,0 @@
-worker: python3 CITLINK_Bot.py
